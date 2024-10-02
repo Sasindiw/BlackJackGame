@@ -62,6 +62,13 @@ Blackjack is a popular card game played in casinos. The objective of the game is
    - **place_bet()**: Allows the player to place a wager before the hand is dealt.
    - **payout()**: Calculates and distributes winnings based on the game result.
 
+     
+## Technologies used 
+- HTML
+- CSS
+- JavaScript
+
+
 ## Contact
 
 For any inquiries or feedback, please contact:
