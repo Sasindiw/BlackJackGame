@@ -39,29 +39,15 @@ Blackjack is a popular card game played in casinos. The objective of the game is
 ## Functions in Blackjack
 
 ### 1. Card Dealing
-   - **deal_card()**: Deals a random card from the deck.
-   - **initial_deal()**: Deals two cards to each player and the dealer.
-
+  
 ### 2. Player Actions
-   - **hit()**: Adds another card to the player’s hand.
-   - **stand()**: Ends the player's turn without drawing more cards.
-   - **double_down()**: Doubles the player's bet and gives one final card.
-   - **split()**: Splits a pair into two separate hands.
-   - **surrender()**: Allows the player to forfeit the game and lose half the bet.
-
+   
 ### 3. Hand Calculation
-   - **calculate_hand_value()**: Calculates the total value of a player's or dealer's hand, accounting for Aces being either 1 or 11.
-
+ 
 ### 4. Game Logic
-   - **check_bust()**: Checks if a hand's value exceeds 21.
-   - **check_blackjack()**: Determines if a hand totals exactly 21 with the first two cards.
-   - **dealer_turn()**: Controls the dealer's actions after the player finishes their turn.
-   - **determine_winner()**: Compares the player's hand with the dealer's to determine the outcome of the game.
-
+   
 ### 5. Betting
-   - **place_bet()**: Allows the player to place a wager before the hand is dealt.
-   - **payout()**: Calculates and distributes winnings based on the game result.
-
+  
      
 ## Technologies used 
 - HTML
